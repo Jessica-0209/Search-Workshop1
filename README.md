@@ -1,5 +1,5 @@
 # Git, Docker and Postgres Workshop
-
+Jessica
 One Day workshop on understanding Git, Docker and Postgres
 
 ## Prerequisite
